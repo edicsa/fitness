@@ -1,0 +1,1 @@
+ /Volumes/External\ HD/__development/flutter/examples/fitness/.dart_tool/flutter_build/7f7d8632530e973df8cfab8770ac5b8e/native_assets.yaml: 
